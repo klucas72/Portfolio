@@ -5,7 +5,7 @@
 body {
     background: cadetblue;
 }
-
+/* Navbar CSS settings */
 .navbar {
     background-color: rgb(14, 56, 58);
     width: 100%;
@@ -22,6 +22,8 @@ body {
 .dropdown-menu {
     color: white;
 }
+
+/* Main Header Settings */
 h1 {
     text-align: center;
     color: rgb(14, 56, 58);
@@ -30,6 +32,7 @@ h1 {
     margin: 50px;
 }
 
+/* About me section settings */
 #about_me {
     border-right: 8px solid rgb(14, 56, 58);
     font-size: 40px;
@@ -38,14 +41,17 @@ h1 {
     place-items: center;
 }
 
+/* Biography Settings */
 #middle {
     font-size: 20px;
 }
 
+/* Spacing between Sections */
 #blank_space {
     height: 50px;
 }
 
+/* Work Product Section Settings */
 #work {
     border-right: 8px solid rgb(14, 56, 58);
     font-size: 40px;
@@ -54,7 +60,7 @@ h1 {
     place-items: center;
 }
 
-
+/* Work product Examples */
 #work_example {
     display: flex;
     flex-wrap: wrap;
@@ -62,10 +68,12 @@ h1 {
     justify-content: space-around;
 }
 
+/* spacing between Sections */
 #blank_space2 {
     height: 100px;
 }
 
+/* Contact Me Section Settings */
 #contact_me {
     border-right: 8px solid rgb(14, 56, 58);
     font-size: 40px;
@@ -74,6 +82,7 @@ h1 {
     place-items: center;
 }
 
+/* Contact Info Settings */
 #contact_info {
     display: flex;
     flex-wrap: wrap;
